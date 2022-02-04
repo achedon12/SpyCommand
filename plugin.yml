@@ -1,0 +1,7 @@
+name: commandSpy
+version: 1.0.0
+main: achedon\commandSpy\spy
+api: [4.0.0]
+author: Achedon12
+
+
