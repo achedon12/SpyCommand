@@ -11,7 +11,7 @@
 ## Base configuration
 
 
-    # Configure here yoyr prefix for this plugin
+    # Configure here your prefix for this plugin
     prefix: "§5[§bSPY§5]§r "
 
     # Setup here the error message
